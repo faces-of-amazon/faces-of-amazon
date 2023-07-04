@@ -6,7 +6,7 @@
 #### The Need for a New Home
 On July 2nd, 2023, the community was notified that "The FACE of Amazon" website had mysteriously vanished from Google Sites. 
 So, we did what any sensible techies would do. We made copies and propagated. The repository of voluntary employee submissions is taken from the most recent snapshot of [https://sites.google.com/site/thefaceofamazon](https://web.archive.org/web/20220407190851/https://sites.google.com/site/thefaceofamazon/home/full-list), dated April 7th, 2022.
-With the advent of OpenAI's GPT, and the influx of new anti-trust lawsuits aimed at Amazon's unethical and unlawful business practices, we thought it was important, now more than ever, to ensure our voices are represented; the current and former employees of Amazon.
+With the advent of OpenAI's GPT, and the influx of new anti-trust lawsuits aimed at Amazon's unethical and unlawful business practices, we believe it is important, now more than ever, to ensure our voices are represented; the current and former employees of Amazon.
 
 Assuming it does not implode, we are also represented on Twitter: [@TheFACEofAmazon](https://twitter.com/TheFACEofAmazon).
 
