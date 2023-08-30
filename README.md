@@ -5,10 +5,11 @@
 
 #### The Need for a New Home
 On July 2nd, 2023, the community was notified that "The FACE of Amazon" website had mysteriously vanished from Google Sites. 
-So, we did what any sensible techies would do. We made copies and propagated. The repository of voluntary employee submissions is taken from the most recent snapshot of [https://sites.google.com/site/thefaceofamazon](https://web.archive.org/web/20220407190851/https://sites.google.com/site/thefaceofamazon/home/full-list), dated April 7th, 2022.
+So, we did what any sensible techies would do. We made copies and propagated. The repository of voluntary employee submissions is taken from the most recent snapshot of [https://sites.google.com/site/thefaceofamazon](https://web.archive.org/web/20220407190851/https://sites.google.com/site/thefaceofamazon/home/full-list), dated April 7th, 2022. Employee testimonials are archived in multiple places, including [here](https://github.com/faces-of-amazon/faces-of-amazon/tree/main/employee_testimonials).
+
 With the advent of OpenAI's GPT, and the influx of new anti-trust lawsuits aimed at Amazon's unethical and unlawful business practices, we believe it is important, now more than ever, to ensure our voices are represented; the current and former employees of Amazon.
 
-Assuming it does not implode, we are also represented on Twitter: [@TheFACEofAmazon](https://twitter.com/TheFACEofAmazon).
+Assuming it does not implode, we are also represented on Twitter (now called 'X'): [@TheFACEofAmazon](https://twitter.com/TheFACEofAmazon).
 
 ---
 
@@ -33,7 +34,8 @@ In addition to capturing storied experiences of employment at Amazon, this itera
 - 📃 Any credible information that details happenings with Amazon, from a consumer perspective?
 
 Feel free to contribute submissions using one or more of the following channels:
-- 📫 Email: Send your email contributions to <b>faces_of_amzn@proton.me</b> (we learned it is invalid to include "amazon" in your ProtonMail handle, so "amzn" it is).
+- 📫 Email: Send your email contributions to <b>faces_of_amzn@proton.me</b>  
+  (we learned it is invalid to include "amazon" in your ProtonMail username, so "amzn" it is).
 - 🎫 Issues: Create an issue within this GitHub repository.
 - ⌨️ Pull-Request: Create a PR to merge your contribution with the main branch of this GitHub repository.
 
